@@ -1,4 +1,4 @@
-# RedPointSytem Introduction  
+# RedPointSystem Introduction  
 ## Tire 前缀树  
   红点系统是前缀树的一个很好的应用的例子。  
   在如何实现红点系统之前，了解并掌握前缀树的相关知识是十分重要的。  
